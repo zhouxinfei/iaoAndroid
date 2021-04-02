@@ -24,6 +24,8 @@
 
 10、小红书app version 6.84.1 登录的 password 和 imei_encrypted
 
+11、辣妈帮app version 7.8.00  加密 sign
+
 .
 
 .
