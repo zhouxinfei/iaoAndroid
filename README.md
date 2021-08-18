@@ -30,7 +30,7 @@
 
 14、中国编码app 版本号 2.0.11 scanKey scanContent
 
-15、熟人直聘APP 版本号 8.0.40 request_sign
+15、熟人直聘app 版本号 8.0.40 request_sign
 
 .
 .
