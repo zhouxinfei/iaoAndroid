@@ -1,6 +1,6 @@
 # !/usr/bin/env python
 # -*- coding:utf-8 -*-
-# 小红书微信小程序sign 
+# 小红书微信小程序 X-Sign
 
 import hashlib
 
