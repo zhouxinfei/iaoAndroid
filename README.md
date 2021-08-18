@@ -58,6 +58,8 @@
 
 28、亲宝宝app 版本号 7.3.5 account、pwd、bodySign、sign
 
+29、平安好医生 版本号 7.1.2 _sig
+
 .
 .
 .
