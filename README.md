@@ -42,9 +42,9 @@
 
 20、慢慢买app 版本号 10.1.10 sign 和 详情页数据解码
 
-21、美团app waimai_sign 版本号 11.2.402
+21、美团app 版本号 11.2.402 waimai_sign
 
-22、美团APP mtgsig
+22、美团app mtgsig
 
 .
 .
