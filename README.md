@@ -32,6 +32,8 @@
 
 15、熟人直聘app 版本号 8.0.40 request_sign
 
+16、快手app 版本号 6.0.0.7751 sig __NStokensig
+
 .
 .
 .
