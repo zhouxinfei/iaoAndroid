@@ -26,13 +26,13 @@
 
 11、辣妈帮app version 7.8.00  加密 sign
 
-12、妈妈帮app 官方版本号：v6.2.8  登录sign
+12、妈妈帮app 版本号：v6.2.8  登录sign
 
 13、天涯社区app 版本号 7.0.1  登录 dPassword
 
 14、中国编码app 版本号 2.0.11 scanKey scanContent
 
-
+15、熟人直聘APP 版本号 8.0.40 request_sign
 .
 .
 
