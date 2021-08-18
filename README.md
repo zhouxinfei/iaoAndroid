@@ -30,7 +30,7 @@
 
 13、天涯社区app 版本号 7.0.1  登录 dPassword
 
-.
+14、中国编码app 版本号 2.0.11 scanKey scanContent
 
 
 .
