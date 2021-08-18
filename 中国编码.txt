@@ -1,0 +1,15 @@
+com.ancc.zgbmapp 中国编码 2.0.11
+
+加密字段：scanKey
+RSA密钥:MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCzg6znbfTnQeM4fNF8MIOHvWghd77tqtlgWs0rGFJhCSH0Ea+tdWw571q7ppCUAONcRBWxRl39xrDEqPpx/AK/T/Cty7uOQdJkHMqfbj4BdBIaMdndl6bsUAdDS+PcIqBA0v6JvYTtad+evmL4vmM1zCA5u2S4Xs/1M9h9P3e1IQIDAQAB
+模式填充:RSA/ECB/PKCS1Padding
+参数:sgIprHTboTMBtXPH
+结果:OV3rq4+E1YZCvfiUwovudkt8wdPuuYa/pIRuTnViikbrECaCrXI82RDNA1xWWTh+CekiIey9u/x/sp6lg7WHZPELnKpGgOXTysaQUJzWDsOV6zTCR24Xro2acgOBvgIN75oDuIdnQHi3hAvafGMzByejSYwX/wfjNo9HRk7erpk=
+
+
+加密字段：scanContent
+密钥:sgIprHTboTMBtXPH
+模式填充:AES/ECB/PKCS5Padding
+参数:{"address":"上海市虹口区长治路143号靠近中国工商银行(吴淞路支行)","barcodeFormat":"EAN_13","latitude":"31.247196","longitude":"121.492378","resultString":"8993175537469","time":"1629105572318","userId":"******"}
+结果:xNcfHi4vKmtMZdFnRZbXgRCcbZqVzv5zQClpajylF+20SP/yNL/JZ+9VMd4VHptYHdRVSVbhEHzI7j1ZXrmyZLZnc/+fk7fKIkcW3FlC0mA0mz0wJzOiDtLyWN9H9uXRAHLSCEblOhc3ifB41noXRjpvAjzD6hSQZECtxTLLHURjbXWqcOmUSiJYFt5rVyRYSrNPGz7dWqF4i/9Wd/fRI/7NfwzELD9iJE5/8y3ds68QhjZE2KzznmZI0OXvv6GV9+wYuchJWoYCEjFVQrBqPpVdK5NgnXzvN3ETM6SzjkoERj5KmhGo38vQRtpF1ilc
+
