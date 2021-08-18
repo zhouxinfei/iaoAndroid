@@ -34,20 +34,6 @@
 
 .
 .
-
-.
-.
-
-.
-.
-
-.
-
-.
-
-
-.
-.
 .
 
 ![image](https://user-images.githubusercontent.com/34562308/111722330-9ae66c00-889c-11eb-957b-7e9c62f76486.png)
