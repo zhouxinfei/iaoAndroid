@@ -56,7 +56,7 @@
 
 27、最右app 版本号 4.8.1 sign 登录
 
-28、亲宝宝app 版本号 7.3.5 account、pwd、bodySign、sign
+28、已删除
 
 29、平安好医生app 版本号 7.1.2 _sig
 
